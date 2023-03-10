@@ -1,0 +1,40 @@
+/*************
+General styling / Elements
+**************/
+
+/*************
+Images
+**************/
+
+/*************
+Buttons / Links / li / inputs
+**************/
+
+/*************
+Typography
+**************/
+
+.logo {
+  font-size: 1.25rem;
+  color: var(--grn4);
+  line-height: 1;
+}
+
+.logo-strapline {
+  font-size: 0.625rem;
+  color: var(--grn4);
+  letter-spacing: 0.1em;
+}
+
+/*************
+Layout
+**************/
+
+.header {
+  background-color: var(--grn1);
+  padding: 2rem 0;
+}
+
+/*************
+Media Queries
+**************/
