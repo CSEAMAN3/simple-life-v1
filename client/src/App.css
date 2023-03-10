@@ -40,6 +40,22 @@ body {
  General Styling / elements
 ************************/
 
+.thin {
+  font-weight: 300;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
 /*************
 Images
 **************/
